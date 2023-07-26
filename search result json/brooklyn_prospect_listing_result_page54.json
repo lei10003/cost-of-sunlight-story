@@ -1,0 +1,2414 @@
+{
+    "data": {
+        "searchResult": {
+            "groupId": "452001315",
+            "airflowGenerationId": null,
+            "total": 1150,
+            "totalNearby": 750,
+            "lastInGeometryId": null,
+            "poi": [
+                {
+                    "id": "l-n5k1omsgh073",
+                    "locationPoint": {
+                        "lat": 40.674373626708984,
+                        "lng": -73.94029235839844,
+                        "__typename": "Point"
+                    },
+                    "firstTimeSeen": "2023-05-19T12:23:51.717Z",
+                    "addressDetails": {
+                        "docId": "952-st-marks-avenue-brooklyn-new-york-ny",
+                        "city": "new york",
+                        "borough": "brooklyn",
+                        "zipcode": "11213",
+                        "streetName": "st mark's avenue",
+                        "neighbourhood": "crown heights",
+                        "neighbourhoodDocId": "crown-heights-neighborhood-brooklyn-new-york-ny",
+                        "cityDocId": "new-york-ny",
+                        "streetNumber": "952",
+                        "unitNumber": "5D",
+                        "district": "",
+                        "__typename": "PoiAddress"
+                    },
+                    "providerListingStatus": "Active",
+                    "dealType": "unitRent",
+                    "daysOnMarket": 66,
+                    "address": "952 St Mark's Avenue, Brooklyn, New York",
+                    "beds": 2,
+                    "area": null,
+                    "price": 2969,
+                    "pricesEstimations": {
+                        "initialPrice": 2969,
+                        "estimatedPrice": 3000,
+                        "boundaries": {
+                            "topBoundary": 3150,
+                            "bottomBoundary": 2850,
+                            "__typename": "PricesEstimationsBoundaries"
+                        },
+                        "__typename": "PricesEstimations"
+                    },
+                    "__typename": "Bulletin",
+                    "lowMonthlies": false,
+                    "listingDataFields": [
+                        {
+                            "meta": {
+                                "text": "Pets allowed",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.unit-pets-allowed",
+                            "groupTypeForLabels": "amenities.unit-pets-allowed",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Gym",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.gym",
+                            "groupTypeForLabels": "amenities.gym",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Pool",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.pool",
+                            "groupTypeForLabels": "amenities.pool",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Parking",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.garage",
+                            "groupTypeForLabels": "amenities.parking",
+                            "__typename": "ListingDataFieldItem"
+                        }
+                    ],
+                    "virtualTours": {
+                        "hasVirtualTour": false,
+                        "items": [],
+                        "__typename": "VirtualTours"
+                    },
+                    "rentalBrokerFee": true,
+                    "eventsHistory": [
+                        {
+                            "eventType": "new",
+                            "price": 3249,
+                            "date": "2023-05-19T12:27:09.000Z",
+                            "__typename": "EventUpdate"
+                        },
+                        {
+                            "eventType": "priceDrop",
+                            "price": 2969,
+                            "date": "2023-06-20T22:23:23.000Z",
+                            "__typename": "EventUpdate"
+                        }
+                    ],
+                    "poc": {
+                        "exclusivity": null,
+                        "__typename": "AgentPoc"
+                    },
+                    "openHouses": [
+                        {
+                            "from": "2024-06-04T11:45:00.000Z",
+                            "to": "2024-06-04T13:00:00.000Z",
+                            "__typename": "OpenHouse"
+                        }
+                    ],
+                    "buildingClass": "co-op",
+                    "images": [
+                        {
+                            "imageUrl": "bulletins2/65be9131f72f8fc7bf3f8a5bc5549c71.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/9c7761b9fe62dec1838a2a579d9fc9fd.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/79404ce4063177fd9a4e78885c631818.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/81f6e36d483d3aaec05752e2b07b0037.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/87a7e981ddbfe34caa443f251d24b0ad.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/26f01f869e4d16513bafe7acfc15719c.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/9645541029f3ff220f63479c272fe357.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/9bed2764366f9ec90611bfdaca2bd1a0.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/4ff0b14ed824f2b5809feebe42827efa.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/e9d5d66bfe22bdd0491625b252d09160.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/d1b4f66b6c52607b963e50341a9081df.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        }
+                    ],
+                    "commonCharges": null,
+                    "monthlyTaxes": null,
+                    "source": "rebny",
+                    "originalId": "RPLU-33422480326",
+                    "insights": {
+                        "insights": [
+                            {
+                                "category": "safety",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Average crime rates",
+                                    "tagLine": "CRIME",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "planning",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Historic District - costs & restrictions",
+                                    "tagLine": "HISTORIC DISTRICT",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "nuisances",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Lots of complaints about noise nearby",
+                                    "tagLine": "NOISY AREA",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Limited park access",
+                                    "tagLine": "",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "safety",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Dangerous intersection nearby",
+                                    "tagLine": "ROAD SAFETY ISSUE",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            }
+                        ],
+                        "__typename": "Insights"
+                    }
+                },
+                {
+                    "id": "m-48lo0k8rcdl0",
+                    "locationPoint": {
+                        "lat": 40.67131042480469,
+                        "lng": -73.9399185180664,
+                        "__typename": "Point"
+                    },
+                    "firstTimeSeen": "2020-09-27T01:41:38.863Z",
+                    "addressDetails": {
+                        "docId": "1159-saint-johns-place-brooklyn-new-york-ny",
+                        "city": "new york",
+                        "borough": "brooklyn",
+                        "zipcode": "11213",
+                        "streetName": "saint john's place",
+                        "neighbourhood": "crown heights",
+                        "neighbourhoodDocId": "crown-heights-neighborhood-brooklyn-new-york-ny",
+                        "cityDocId": "new-york-ny",
+                        "streetNumber": "1159",
+                        "unitNumber": "2A",
+                        "district": "",
+                        "__typename": "PoiAddress"
+                    },
+                    "providerListingStatus": null,
+                    "dealType": "unitRent",
+                    "daysOnMarket": null,
+                    "address": "1159 Saint John's Place, Brooklyn, NY",
+                    "beds": 2,
+                    "area": 500,
+                    "price": 2200,
+                    "pricesEstimations": null,
+                    "__typename": "Bulletin",
+                    "lowMonthlies": false,
+                    "listingDataFields": [
+                        {
+                            "meta": {
+                                "text": "Patio",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.patio",
+                            "groupTypeForLabels": "amenities.private_outdoor_space",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Pets allowed",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.unit-pets-allowed",
+                            "groupTypeForLabels": "amenities.unit-pets-allowed",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Building garden",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.building-garden",
+                            "groupTypeForLabels": "amenities.shared_outdoor_space",
+                            "__typename": "ListingDataFieldItem"
+                        }
+                    ],
+                    "virtualTours": null,
+                    "rentalBrokerFee": null,
+                    "eventsHistory": [
+                        {
+                            "eventType": "new",
+                            "price": 2200,
+                            "date": "2020-09-27T01:41:41.000Z",
+                            "__typename": "EventUpdate"
+                        }
+                    ],
+                    "poc": {
+                        "exclusivity": {
+                            "exclusive": true,
+                            "__typename": "Exclusivity"
+                        },
+                        "__typename": "AgentPoc"
+                    },
+                    "openHouses": [],
+                    "buildingClass": "condo",
+                    "images": [
+                        {
+                            "imageUrl": "bulletins/1059-2-d45fb2ef-a8ed-462b-a95b-754952ccc2a7.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/1059-4-0885207a-5866-4a01-a7b5-ca28afe2f1e4.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/1059-1-a21ac686-d76f-44a5-9d54-cdf45e76531a.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/1059-7-b935190c-d64d-4ffc-897c-a11aca82bb94.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/1059-3-57ff1517-2829-4c18-a59c-79b5b831a40e.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/1059-5-1e73aae6-e74c-4068-9d69-a169040bce29.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/1059-6-d47d687e-d0fa-49a2-98e2-3d6f6c313a8d.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/120314434_10218357203426963_4352935472306885287_o-7d02e3a5-26f4-4be1-a3b2-14a57dcb04b3.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/1059-9-99ab4e94-803d-4390-9a79-d15a4cf1a34d.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/10599-10-cf7548eb-05a3-4ecb-8003-c7f9770046aa.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/120377042_10218357202906950_4595242641536864154_n-3ec4c2dc-0e25-4987-81de-de4fe70b3e18.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        }
+                    ],
+                    "commonCharges": null,
+                    "monthlyTaxes": null,
+                    "source": "Manual",
+                    "originalId": "m-48lo0k8rcdl0",
+                    "insights": {
+                        "insights": [
+                            {
+                                "category": "planning",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "New construction within half a block",
+                                    "tagLine": "CONSTRUCTION COMING",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "nuisances",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Lots of complaints about noise nearby",
+                                    "tagLine": "NOISY AREA",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "planning",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Near Historic District - less restrictions",
+                                    "tagLine": "NEAR HISTORIC DISTRICT",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "naturalLight",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Limited natural light",
+                                    "tagLine": "LESS NATURAL LIGHT",
+                                    "impactful": true,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Many arts and cultural institutions",
+                                    "tagLine": "livability",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "There's a lot of museums nearby",
+                                    "tagLine": "livability",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Limited park access",
+                                    "tagLine": "",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "safety",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Dangerous intersection nearby",
+                                    "tagLine": "ROAD SAFETY ISSUE",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "safety",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Slightly above average crime rate",
+                                    "tagLine": "CRIME",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            }
+                        ],
+                        "__typename": "Insights"
+                    }
+                },
+                {
+                    "id": "l-iqp310aocqdd",
+                    "locationPoint": {
+                        "lat": 40.671321868896484,
+                        "lng": -73.94013977050781,
+                        "__typename": "Point"
+                    },
+                    "firstTimeSeen": "2023-07-19T12:42:22.930Z",
+                    "addressDetails": {
+                        "docId": "1153-saint-johns-place-brooklyn-new-york-ny",
+                        "city": "new york",
+                        "borough": "brooklyn",
+                        "zipcode": "11213",
+                        "streetName": "st johns place",
+                        "neighbourhood": "crown heights",
+                        "neighbourhoodDocId": "crown-heights-neighborhood-brooklyn-new-york-ny",
+                        "cityDocId": "new-york-ny",
+                        "streetNumber": "1153",
+                        "unitNumber": "4F",
+                        "district": "",
+                        "__typename": "PoiAddress"
+                    },
+                    "providerListingStatus": "Active",
+                    "dealType": "unitRent",
+                    "daysOnMarket": 8,
+                    "address": "1153 St Johns Place, Brooklyn, New York",
+                    "beds": 3,
+                    "area": null,
+                    "price": 3250,
+                    "pricesEstimations": null,
+                    "__typename": "Bulletin",
+                    "lowMonthlies": false,
+                    "listingDataFields": [
+                        {
+                            "meta": {
+                                "text": "Pets allowed",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.unit-pets-allowed",
+                            "groupTypeForLabels": "amenities.unit-pets-allowed",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Parking",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.garage",
+                            "groupTypeForLabels": "amenities.parking",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Pool",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.pool",
+                            "groupTypeForLabels": "amenities.pool",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Gym",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.gym",
+                            "groupTypeForLabels": "amenities.gym",
+                            "__typename": "ListingDataFieldItem"
+                        }
+                    ],
+                    "virtualTours": {
+                        "hasVirtualTour": false,
+                        "items": [],
+                        "__typename": "VirtualTours"
+                    },
+                    "rentalBrokerFee": false,
+                    "eventsHistory": [
+                        {
+                            "eventType": "new",
+                            "price": 3250,
+                            "date": "2023-07-17T00:00:00.000Z",
+                            "__typename": "EventUpdate"
+                        }
+                    ],
+                    "poc": {
+                        "exclusivity": null,
+                        "__typename": "AgentPoc"
+                    },
+                    "openHouses": [],
+                    "buildingClass": "rental unit",
+                    "images": [
+                        {
+                            "imageUrl": "bulletins2/6e7a2b16176eca5c37798a7652a5dc13.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/e526ff09ffe0254003330abd5e226c60.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/82c4605a3b928b1bd825d19ae9972b69.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/f15b6ae07ad0788bb1479d4e5e51ae2d.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/f9036a3803cbe93853219081a5bd270e.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        }
+                    ],
+                    "commonCharges": null,
+                    "monthlyTaxes": null,
+                    "source": "rebny",
+                    "originalId": "RPLU-33422583219",
+                    "insights": {
+                        "insights": [
+                            {
+                                "category": "safety",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Slightly above average crime rate",
+                                    "tagLine": "CRIME",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "planning",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Near Historic District - less restrictions",
+                                    "tagLine": "NEAR HISTORIC DISTRICT",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "nuisances",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Lots of complaints about noise nearby",
+                                    "tagLine": "NOISY AREA",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Limited park access",
+                                    "tagLine": "",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "nuisances",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "2 Open Violations in building",
+                                    "tagLine": "BLDG VIOLATIONS",
+                                    "impactful": true,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "safety",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Dangerous intersection nearby",
+                                    "tagLine": "ROAD SAFETY ISSUE",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            }
+                        ],
+                        "__typename": "Insights"
+                    }
+                },
+                {
+                    "id": "m-fak7eb8mq9ig",
+                    "locationPoint": {
+                        "lat": 40.67081832885742,
+                        "lng": -73.94058227539062,
+                        "__typename": "Point"
+                    },
+                    "firstTimeSeen": "2020-06-27T14:39:03.747Z",
+                    "addressDetails": {
+                        "docId": "1140-saint-johns-place-brooklyn-new-york-ny",
+                        "city": "new york",
+                        "borough": "brooklyn",
+                        "zipcode": "11213",
+                        "streetName": "saint john's place",
+                        "neighbourhood": "crown heights",
+                        "neighbourhoodDocId": "crown-heights-neighborhood-brooklyn-new-york-ny",
+                        "cityDocId": "new-york-ny",
+                        "streetNumber": "1140",
+                        "unitNumber": "19",
+                        "district": "",
+                        "__typename": "PoiAddress"
+                    },
+                    "providerListingStatus": null,
+                    "dealType": "unitRent",
+                    "daysOnMarket": null,
+                    "address": "1140 Saint John's Place, Brooklyn, NY",
+                    "beds": 2,
+                    "area": 0,
+                    "price": 2250,
+                    "pricesEstimations": null,
+                    "__typename": "Bulletin",
+                    "lowMonthlies": false,
+                    "listingDataFields": [
+                        {
+                            "meta": {
+                                "text": "Roofdeck",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.roof-deck",
+                            "groupTypeForLabels": "amenities.private_outdoor_space",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Pets allowed",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.unit-pets-allowed",
+                            "groupTypeForLabels": "amenities.unit-pets-allowed",
+                            "__typename": "ListingDataFieldItem"
+                        }
+                    ],
+                    "virtualTours": null,
+                    "rentalBrokerFee": null,
+                    "eventsHistory": [
+                        {
+                            "eventType": "new",
+                            "price": 2250,
+                            "date": "2020-06-27T14:39:07.000Z",
+                            "__typename": "EventUpdate"
+                        }
+                    ],
+                    "poc": {
+                        "exclusivity": {
+                            "exclusive": true,
+                            "__typename": "Exclusivity"
+                        },
+                        "__typename": "AgentPoc"
+                    },
+                    "openHouses": [],
+                    "buildingClass": "multifamily",
+                    "images": [
+                        {
+                            "imageUrl": "bulletins/394661135-11818e1a-17e3-4ce9-8d0d-1f92c7e01dd3.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/394661139-5aaea3a7-afa2-412e-98a4-d8fa2aaa632f.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/394661101-080d2dbe-f4b7-4c64-bb1a-4e1548c4e3ef.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/394661141-d42690cb-b874-4fa9-bc9e-4b458051a154.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/394661145-7113b03b-f73c-435a-81bf-aeaddc8ab53c.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/394661136-9ed053ad-46c8-41d8-b364-651d3430d9c5.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/staticmap-547f8c37-dd2e-4e3c-8fe2-0d466c6fc70d.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        }
+                    ],
+                    "commonCharges": null,
+                    "monthlyTaxes": null,
+                    "source": "Manual",
+                    "originalId": "m-fak7eb8mq9ig",
+                    "insights": {
+                        "insights": [
+                            {
+                                "category": "nuisances",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "water leak complaints in building",
+                                    "tagLine": "BLDG COMPLAINTS",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "planning",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "New construction within half a block",
+                                    "tagLine": "CONSTRUCTION COMING",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "nuisances",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Lots of complaints about noise nearby",
+                                    "tagLine": "NOISY AREA",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "planning",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Construction site next door",
+                                    "tagLine": "CONSTRUCTION COMING",
+                                    "impactful": true,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "planning",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Near Historic District - less restrictions",
+                                    "tagLine": "NEAR HISTORIC DISTRICT",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "naturalLight",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Limited natural light",
+                                    "tagLine": "LESS NATURAL LIGHT",
+                                    "impactful": true,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Many arts and cultural institutions",
+                                    "tagLine": "livability",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "There's a lot of museums nearby",
+                                    "tagLine": "livability",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "There's a leafy bike & jogging path neaby ",
+                                    "tagLine": "livability",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Annual West Indian Day Parade is held here",
+                                    "tagLine": "livability",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Limited park access",
+                                    "tagLine": "",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "safety",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Dangerous intersection nearby",
+                                    "tagLine": "ROAD SAFETY ISSUE",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "safety",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Slightly above average crime rate",
+                                    "tagLine": "CRIME",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            }
+                        ],
+                        "__typename": "Insights"
+                    }
+                },
+                {
+                    "id": "m-safqcmitqfuh",
+                    "locationPoint": {
+                        "lat": 40.67081832885742,
+                        "lng": -73.94058227539062,
+                        "__typename": "Point"
+                    },
+                    "firstTimeSeen": "2020-06-27T14:42:26.117Z",
+                    "addressDetails": {
+                        "docId": "1140-saint-johns-place-brooklyn-new-york-ny",
+                        "city": "new york",
+                        "borough": "brooklyn",
+                        "zipcode": "11213",
+                        "streetName": "saint john's place",
+                        "neighbourhood": "crown heights",
+                        "neighbourhoodDocId": "crown-heights-neighborhood-brooklyn-new-york-ny",
+                        "cityDocId": "new-york-ny",
+                        "streetNumber": "1140",
+                        "unitNumber": "7",
+                        "district": "",
+                        "__typename": "PoiAddress"
+                    },
+                    "providerListingStatus": null,
+                    "dealType": "unitRent",
+                    "daysOnMarket": null,
+                    "address": "1140 Saint John's Place, Brooklyn, NY",
+                    "beds": 3,
+                    "area": 0,
+                    "price": 2450,
+                    "pricesEstimations": null,
+                    "__typename": "Bulletin",
+                    "lowMonthlies": false,
+                    "listingDataFields": [
+                        {
+                            "meta": {
+                                "text": "Roofdeck",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.roof-deck",
+                            "groupTypeForLabels": "amenities.private_outdoor_space",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Pets allowed",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.unit-pets-allowed",
+                            "groupTypeForLabels": "amenities.unit-pets-allowed",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Building roofdeck",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.building-roofdeck",
+                            "groupTypeForLabels": "amenities.shared_outdoor_space",
+                            "__typename": "ListingDataFieldItem"
+                        }
+                    ],
+                    "virtualTours": null,
+                    "rentalBrokerFee": null,
+                    "eventsHistory": [
+                        {
+                            "eventType": "new",
+                            "price": 2450,
+                            "date": "2020-06-27T14:42:29.000Z",
+                            "__typename": "EventUpdate"
+                        }
+                    ],
+                    "poc": {
+                        "exclusivity": {
+                            "exclusive": true,
+                            "__typename": "Exclusivity"
+                        },
+                        "__typename": "AgentPoc"
+                    },
+                    "openHouses": [],
+                    "buildingClass": "multifamily",
+                    "images": [
+                        {
+                            "imageUrl": "bulletins/394654565-8570555a-aeb9-468c-8164-4e9960047001.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/394654563-1a271fee-5f44-4ae2-9921-008d567a3c90.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/394654562-57686379-0e30-4f3b-bf73-410818ab2b25.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/394654554-c9fbac82-470b-4e41-bb33-bf0affbf8532.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/394654557-05a5fab7-454a-46ff-a8a0-9c5b77843545.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/394655759-d25b28ee-d6c7-4cf5-9e37-3984bf37ba80.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/staticmap-79fd184d-8346-4787-9bf1-427b19f78b06.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        }
+                    ],
+                    "commonCharges": null,
+                    "monthlyTaxes": null,
+                    "source": "Manual",
+                    "originalId": "m-safqcmitqfuh",
+                    "insights": {
+                        "insights": [
+                            {
+                                "category": "nuisances",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "water leak complaints in building",
+                                    "tagLine": "BLDG COMPLAINTS",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "planning",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "New construction within half a block",
+                                    "tagLine": "CONSTRUCTION COMING",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "nuisances",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Lots of complaints about noise nearby",
+                                    "tagLine": "NOISY AREA",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "planning",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Construction site next door",
+                                    "tagLine": "CONSTRUCTION COMING",
+                                    "impactful": true,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "planning",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Near Historic District - less restrictions",
+                                    "tagLine": "NEAR HISTORIC DISTRICT",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "naturalLight",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Moderate natural light",
+                                    "tagLine": "LESS NATURAL LIGHT",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Many arts and cultural institutions",
+                                    "tagLine": "livability",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "There's a lot of museums nearby",
+                                    "tagLine": "livability",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "There's a leafy bike & jogging path neaby ",
+                                    "tagLine": "livability",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Annual West Indian Day Parade is held here",
+                                    "tagLine": "livability",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Limited park access",
+                                    "tagLine": "",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "safety",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Dangerous intersection nearby",
+                                    "tagLine": "ROAD SAFETY ISSUE",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "safety",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Slightly above average crime rate",
+                                    "tagLine": "CRIME",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            }
+                        ],
+                        "__typename": "Insights"
+                    }
+                },
+                {
+                    "id": "m-raljp2uace",
+                    "locationPoint": {
+                        "lat": 40.67081832885742,
+                        "lng": -73.94058227539062,
+                        "__typename": "Point"
+                    },
+                    "firstTimeSeen": "2020-06-30T20:17:27.169Z",
+                    "addressDetails": {
+                        "docId": "1140-saint-johns-place-brooklyn-new-york-ny",
+                        "city": "new york",
+                        "borough": "brooklyn",
+                        "zipcode": "11213",
+                        "streetName": "saint john's place",
+                        "neighbourhood": "crown heights",
+                        "neighbourhoodDocId": "crown-heights-neighborhood-brooklyn-new-york-ny",
+                        "cityDocId": "new-york-ny",
+                        "streetNumber": "1140",
+                        "unitNumber": "19",
+                        "district": "",
+                        "__typename": "PoiAddress"
+                    },
+                    "providerListingStatus": null,
+                    "dealType": "unitRent",
+                    "daysOnMarket": null,
+                    "address": "1140 Saint John's Place, Brooklyn, NY",
+                    "beds": 2,
+                    "area": 0,
+                    "price": 2200,
+                    "pricesEstimations": null,
+                    "__typename": "Bulletin",
+                    "lowMonthlies": false,
+                    "listingDataFields": [
+                        {
+                            "meta": {
+                                "text": "Roofdeck",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.roof-deck",
+                            "groupTypeForLabels": "amenities.private_outdoor_space",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Building roofdeck",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.building-roofdeck",
+                            "groupTypeForLabels": "amenities.shared_outdoor_space",
+                            "__typename": "ListingDataFieldItem"
+                        }
+                    ],
+                    "virtualTours": null,
+                    "rentalBrokerFee": null,
+                    "eventsHistory": [
+                        {
+                            "eventType": "new",
+                            "price": 2200,
+                            "date": "2020-06-30T20:17:29.000Z",
+                            "__typename": "EventUpdate"
+                        }
+                    ],
+                    "poc": {
+                        "exclusivity": {
+                            "exclusive": true,
+                            "__typename": "Exclusivity"
+                        },
+                        "__typename": "AgentPoc"
+                    },
+                    "openHouses": [],
+                    "buildingClass": "multifamily",
+                    "images": [
+                        {
+                            "imageUrl": "bulletins/394661107-d4bbb395-1e3c-4431-8f27-d1adf6a8d168.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/394661135-aef1f6e7-7080-49d1-99d1-dc1e523019ec.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/394661153-fd955d7c-68f5-472c-985a-a824278cb389.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/394661160-fd60dedc-f20d-429c-9c08-746b2b561913.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/394661166-3aac7d73-5669-4984-933f-dfeb483d8e37.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/394661162-44bad0e7-3fbd-4de3-b77c-ebaf8b77ea59.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        }
+                    ],
+                    "commonCharges": null,
+                    "monthlyTaxes": null,
+                    "source": "Manual",
+                    "originalId": "m-raljp2uace",
+                    "insights": {
+                        "insights": [
+                            {
+                                "category": "nuisances",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "water leak complaints in building",
+                                    "tagLine": "BLDG COMPLAINTS",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "planning",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "New construction within half a block",
+                                    "tagLine": "CONSTRUCTION COMING",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "nuisances",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Lots of complaints about noise nearby",
+                                    "tagLine": "NOISY AREA",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "planning",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Construction site next door",
+                                    "tagLine": "CONSTRUCTION COMING",
+                                    "impactful": true,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "planning",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Near Historic District - less restrictions",
+                                    "tagLine": "NEAR HISTORIC DISTRICT",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Many arts and cultural institutions",
+                                    "tagLine": "livability",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "There's a lot of museums nearby",
+                                    "tagLine": "livability",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "There's a leafy bike & jogging path neaby ",
+                                    "tagLine": "livability",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Annual West Indian Day Parade is held here",
+                                    "tagLine": "livability",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Limited park access",
+                                    "tagLine": "",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "safety",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Dangerous intersection nearby",
+                                    "tagLine": "ROAD SAFETY ISSUE",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "safety",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Slightly above average crime rate",
+                                    "tagLine": "CRIME",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            }
+                        ],
+                        "__typename": "Insights"
+                    }
+                },
+                {
+                    "id": "m-nl3t4s1knf41",
+                    "locationPoint": {
+                        "lat": 40.67082977294922,
+                        "lng": -73.93978118896484,
+                        "__typename": "Point"
+                    },
+                    "firstTimeSeen": "2020-09-27T01:56:22.262Z",
+                    "addressDetails": {
+                        "docId": "1166-saint-johns-place-brooklyn-new-york-ny",
+                        "city": "new york",
+                        "borough": "brooklyn",
+                        "zipcode": "11213",
+                        "streetName": "saint john's place",
+                        "neighbourhood": "crown heights",
+                        "neighbourhoodDocId": "crown-heights-neighborhood-brooklyn-new-york-ny",
+                        "cityDocId": "new-york-ny",
+                        "streetNumber": "1166",
+                        "unitNumber": "#2A",
+                        "district": "",
+                        "__typename": "PoiAddress"
+                    },
+                    "providerListingStatus": null,
+                    "dealType": "unitRent",
+                    "daysOnMarket": null,
+                    "address": "1166 Saint John's Place, Brooklyn, NY",
+                    "beds": 2,
+                    "area": 700,
+                    "price": 2400,
+                    "pricesEstimations": null,
+                    "__typename": "Bulletin",
+                    "lowMonthlies": false,
+                    "listingDataFields": [
+                        {
+                            "meta": {
+                                "text": "Washer/dryer",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.unit-laundry",
+                            "groupTypeForLabels": "amenities.unit-laundry",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Building garden",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.building-garden",
+                            "groupTypeForLabels": "amenities.shared_outdoor_space",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Laundry in building",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.building-laundry",
+                            "groupTypeForLabels": "amenities.building-laundry",
+                            "__typename": "ListingDataFieldItem"
+                        }
+                    ],
+                    "virtualTours": null,
+                    "rentalBrokerFee": null,
+                    "eventsHistory": [
+                        {
+                            "eventType": "new",
+                            "price": 2400,
+                            "date": "2020-09-27T01:56:24.000Z",
+                            "__typename": "EventUpdate"
+                        }
+                    ],
+                    "poc": {
+                        "exclusivity": {
+                            "exclusive": true,
+                            "__typename": "Exclusivity"
+                        },
+                        "__typename": "AgentPoc"
+                    },
+                    "openHouses": [],
+                    "buildingClass": "condo",
+                    "images": [
+                        {
+                            "imageUrl": "bulletins/1166 2b LR-15e39c80-8e3b-42da-afab-08fc07c7f0eb.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/1166 LV side 2B-6bac9952-eafa-4c4d-94b5-07a8083c37d1.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/1166 SJ kitchen-4d647981-4508-4cc4-8acd-5716f4073378.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/1166 BR 2b-095e62ad-0c51-48ac-a37e-741cf4946781.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/1166 SJ Bathroom-f2b8f6b2-1751-4df0-aa6c-f2d31393e564.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/1166 SJ BR3-aeb4340e-de74-4bf5-a557-3496fd73b7b1.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/1166 FLOOR PLAN-a64db295-0bbb-420b-affd-6674f5ba64a8.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins/1166 SJ outside-23f9177d-18b0-46f3-b117-0e3683f4d18d.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        }
+                    ],
+                    "commonCharges": null,
+                    "monthlyTaxes": null,
+                    "source": "Manual",
+                    "originalId": "m-nl3t4s1knf41",
+                    "insights": {
+                        "insights": [
+                            {
+                                "category": "planning",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "New construction within half a block",
+                                    "tagLine": "CONSTRUCTION COMING",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "planning",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Near Historic District - less restrictions",
+                                    "tagLine": "NEAR HISTORIC DISTRICT",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "naturalLight",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Bright & sun drenched",
+                                    "tagLine": "BRIGHT & SUNNY",
+                                    "impactful": true,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Many arts and cultural institutions",
+                                    "tagLine": "livability",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "There's a lot of museums nearby",
+                                    "tagLine": "livability",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "There's a leafy bike & jogging path neaby ",
+                                    "tagLine": "livability",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Annual West Indian Day Parade is held here",
+                                    "tagLine": "livability",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "nuisances",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Noise complaints about nearby church ",
+                                    "tagLine": "nuisances",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "safety",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Dangerous intersection nearby",
+                                    "tagLine": "ROAD SAFETY ISSUE",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "safety",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Slightly above average crime rate",
+                                    "tagLine": "CRIME",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            }
+                        ],
+                        "__typename": "Insights"
+                    }
+                },
+                {
+                    "id": "l-7g7gkgl3ak4i",
+                    "locationPoint": {
+                        "lat": 40.67082977294922,
+                        "lng": -73.93978118896484,
+                        "__typename": "Point"
+                    },
+                    "firstTimeSeen": "2023-07-11T12:25:33.208Z",
+                    "addressDetails": {
+                        "docId": "1166-st-john-place-brooklyn-new-york-ny",
+                        "city": "new york",
+                        "borough": "brooklyn",
+                        "zipcode": "11213",
+                        "streetName": "saint john's place",
+                        "neighbourhood": "crown heights",
+                        "neighbourhoodDocId": "crown-heights-neighborhood-brooklyn-new-york-ny",
+                        "cityDocId": "new-york-ny",
+                        "streetNumber": "1166",
+                        "unitNumber": "2B",
+                        "district": "",
+                        "__typename": "PoiAddress"
+                    },
+                    "providerListingStatus": null,
+                    "dealType": "unitRent",
+                    "daysOnMarket": 15,
+                    "address": "1166 Saint John's Place, Brooklyn, New York",
+                    "beds": 1,
+                    "area": 600,
+                    "price": 2850,
+                    "pricesEstimations": null,
+                    "__typename": "Bulletin",
+                    "lowMonthlies": false,
+                    "listingDataFields": [
+                        {
+                            "meta": {
+                                "text": "Roofdeck",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.roof-deck",
+                            "groupTypeForLabels": "amenities.private_outdoor_space",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Terrace",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.terrace",
+                            "groupTypeForLabels": "amenities.private_outdoor_space",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Garden",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.garden",
+                            "groupTypeForLabels": "amenities.private_outdoor_space",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Balcony",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.balcony",
+                            "groupTypeForLabels": "amenities.private_outdoor_space",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Courtyard",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.courtyard",
+                            "groupTypeForLabels": "amenities.shared_outdoor_space",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Patio",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.patio",
+                            "groupTypeForLabels": "amenities.private_outdoor_space",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "City views",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.city-view",
+                            "groupTypeForLabels": "amenities.views",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Park views",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.park-view",
+                            "groupTypeForLabels": "amenities.views",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Pets allowed",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.unit-pets-allowed",
+                            "groupTypeForLabels": "amenities.unit-pets-allowed",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Washer/dryer",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.unit-laundry",
+                            "groupTypeForLabels": "amenities.unit-laundry",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Fireplace",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.fireplace",
+                            "groupTypeForLabels": "amenities.fireplace",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Gym",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.health-club",
+                            "groupTypeForLabels": "amenities.health-club",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Building garden",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.building-garden",
+                            "groupTypeForLabels": "amenities.shared_outdoor_space",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Concierge",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.concierge",
+                            "groupTypeForLabels": "amenities.concierge",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Doorman",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.doorman",
+                            "groupTypeForLabels": "amenities.doorman",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Parking",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.garage",
+                            "groupTypeForLabels": "amenities.parking",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Gym",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.gym",
+                            "groupTypeForLabels": "amenities.gym",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Gym",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.fitness-room",
+                            "groupTypeForLabels": "amenities.fitness-room",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Pool",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.pool",
+                            "groupTypeForLabels": "amenities.pool",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Elevator",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.elevator",
+                            "groupTypeForLabels": "amenities.elevator",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Air conditioner",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.air-conditioner",
+                            "groupTypeForLabels": "amenities.air-conditioner",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Building terrace",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.building-patio",
+                            "groupTypeForLabels": "amenities.shared_outdoor_space",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Building terrace",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.building-terrace",
+                            "groupTypeForLabels": "amenities.shared_outdoor_space",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Bike storage",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.bike-storage",
+                            "groupTypeForLabels": "amenities.bike-storage",
+                            "__typename": "ListingDataFieldItem"
+                        }
+                    ],
+                    "virtualTours": {
+                        "hasVirtualTour": false,
+                        "items": [],
+                        "__typename": "VirtualTours"
+                    },
+                    "rentalBrokerFee": false,
+                    "eventsHistory": [
+                        {
+                            "eventType": "new",
+                            "price": 2850,
+                            "date": "2023-07-10T00:00:00.000Z",
+                            "__typename": "EventUpdate"
+                        }
+                    ],
+                    "poc": {
+                        "exclusivity": null,
+                        "__typename": "AgentPoc"
+                    },
+                    "openHouses": [],
+                    "buildingClass": "rental unit",
+                    "images": [
+                        {
+                            "imageUrl": "bulletins2/ca3eb066b3e22f7a37f926efe56a4c23.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/315d33226c559799ce6d7e11aa03e5d7.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/d463b98d027934845fccb303ba051e3a.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/1912ea55f90c4a5a10c820e09921b874.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/1b66126729a434e91edecc5c195f2235.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/e7faf7bb65c9fafcf08c16dbde5901d1.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/6ac56e165389278298ed576946fa5c4d.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        }
+                    ],
+                    "commonCharges": null,
+                    "monthlyTaxes": null,
+                    "source": "realtymx",
+                    "originalId": "RealStreet_8822",
+                    "insights": {
+                        "insights": [
+                            {
+                                "category": "safety",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Slightly above average crime rate",
+                                    "tagLine": "CRIME",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "naturalLight",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "This apartment has limited sunlight",
+                                    "tagLine": "",
+                                    "impactful": true,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "planning",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Near Historic District - less restrictions",
+                                    "tagLine": "NEAR HISTORIC DISTRICT",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "nuisances",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Lots of complaints about noise nearby",
+                                    "tagLine": "NOISY AREA",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "safety",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Dangerous intersection nearby",
+                                    "tagLine": "ROAD SAFETY ISSUE",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            }
+                        ],
+                        "__typename": "Insights"
+                    }
+                },
+                {
+                    "id": "l-1s265npkj314",
+                    "locationPoint": {
+                        "lat": 40.66883850097656,
+                        "lng": -73.94046020507812,
+                        "__typename": "Point"
+                    },
+                    "firstTimeSeen": "2023-07-25T00:41:01.880Z",
+                    "addressDetails": {
+                        "docId": "844-eastern-parkway-eb-roadbed-brooklyn-new-york-ny",
+                        "city": "new york",
+                        "borough": "brooklyn",
+                        "zipcode": "11213",
+                        "streetName": "eastern parkway",
+                        "neighbourhood": "crown heights",
+                        "neighbourhoodDocId": "crown-heights-neighborhood-brooklyn-new-york-ny",
+                        "cityDocId": "new-york-ny",
+                        "streetNumber": "844",
+                        "unitNumber": "2",
+                        "district": "",
+                        "__typename": "PoiAddress"
+                    },
+                    "providerListingStatus": "Active",
+                    "dealType": "unitRent",
+                    "daysOnMarket": 1,
+                    "address": "844 Eastern Parkway, Brooklyn, New York",
+                    "beds": 3,
+                    "area": null,
+                    "price": 4250,
+                    "pricesEstimations": null,
+                    "__typename": "Bulletin",
+                    "lowMonthlies": false,
+                    "listingDataFields": [
+                        {
+                            "meta": {
+                                "text": "Pets allowed",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.unit-pets-allowed",
+                            "groupTypeForLabels": "amenities.unit-pets-allowed",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Gym",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.gym",
+                            "groupTypeForLabels": "amenities.gym",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Pool",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.pool",
+                            "groupTypeForLabels": "amenities.pool",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Parking",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.garage",
+                            "groupTypeForLabels": "amenities.parking",
+                            "__typename": "ListingDataFieldItem"
+                        }
+                    ],
+                    "virtualTours": {
+                        "hasVirtualTour": false,
+                        "items": [],
+                        "__typename": "VirtualTours"
+                    },
+                    "rentalBrokerFee": true,
+                    "eventsHistory": [
+                        {
+                            "eventType": "new",
+                            "price": 4250,
+                            "date": "2023-07-24T00:00:00.000Z",
+                            "__typename": "EventUpdate"
+                        }
+                    ],
+                    "poc": {
+                        "exclusivity": null,
+                        "__typename": "AgentPoc"
+                    },
+                    "openHouses": [],
+                    "buildingClass": "rental unit",
+                    "images": [
+                        {
+                            "imageUrl": "bulletins2/911da6998ab9aa1ad9d6201fbd995299.jpg",
+                            "isFloorplan": true,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/a0cc6766bd0d24cd1d99f74f654e5200.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/57283425f5ba659ec39651b3811fd319.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/e4e0f3a2ef13596c555d4d050eebdefe.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/ab63ee5ff8c225fbcd8ea850e2e4a1e3.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/5129bda68c561a53d2a34f856cab9c4c.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/3c3173a458555376403ddb8adeb20c31.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/a251ff4e573a4026721a18200bb8694c.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/426b016b59c42a579e3d739b4389ca7b.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/bba38679b7f092fe4c0c0e5427a7ae50.jpg",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        }
+                    ],
+                    "commonCharges": null,
+                    "monthlyTaxes": null,
+                    "source": "rebny",
+                    "originalId": "OLRS-2050244",
+                    "insights": {
+                        "insights": [
+                            {
+                                "category": "safety",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Slightly above average crime rate",
+                                    "tagLine": "CRIME",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "planning",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Near Historic District - less restrictions",
+                                    "tagLine": "NEAR HISTORIC DISTRICT",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            }
+                        ],
+                        "__typename": "Insights"
+                    }
+                },
+                {
+                    "id": "l-ado28cs1spjr",
+                    "locationPoint": {
+                        "lat": 40.65384292602539,
+                        "lng": -73.94053649902344,
+                        "__typename": "Point"
+                    },
+                    "firstTimeSeen": "2023-07-07T20:33:51.205Z",
+                    "addressDetails": {
+                        "docId": "84-east-40-street-brooklyn-new-york-ny",
+                        "city": "new york",
+                        "borough": "brooklyn",
+                        "zipcode": "11203",
+                        "streetName": "east 40 street",
+                        "neighbourhood": "east flatbush",
+                        "neighbourhoodDocId": "east-flatbush-neighborhood-brooklyn-new-york-ny",
+                        "cityDocId": "new-york-ny",
+                        "streetNumber": "84",
+                        "unitNumber": "2B",
+                        "district": "",
+                        "__typename": "PoiAddress"
+                    },
+                    "providerListingStatus": "Active",
+                    "dealType": "unitRent",
+                    "daysOnMarket": 18,
+                    "address": "84 East 40 Street, Brooklyn, New York",
+                    "beds": 3,
+                    "area": null,
+                    "price": 2995,
+                    "pricesEstimations": null,
+                    "__typename": "Bulletin",
+                    "lowMonthlies": false,
+                    "listingDataFields": [
+                        {
+                            "meta": {
+                                "text": "Pets allowed",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.unit-pets-allowed",
+                            "groupTypeForLabels": "amenities.unit-pets-allowed",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Pool",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.pool",
+                            "groupTypeForLabels": "amenities.pool",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Parking",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.garage",
+                            "groupTypeForLabels": "amenities.parking",
+                            "__typename": "ListingDataFieldItem"
+                        },
+                        {
+                            "meta": {
+                                "text": "Gym",
+                                "__typename": "AmenityMetaData"
+                            },
+                            "type": "amenities.gym",
+                            "groupTypeForLabels": "amenities.gym",
+                            "__typename": "ListingDataFieldItem"
+                        }
+                    ],
+                    "virtualTours": {
+                        "hasVirtualTour": false,
+                        "items": [],
+                        "__typename": "VirtualTours"
+                    },
+                    "rentalBrokerFee": true,
+                    "eventsHistory": [
+                        {
+                            "eventType": "new",
+                            "price": 2995,
+                            "date": "2023-07-07T00:00:00.000Z",
+                            "__typename": "EventUpdate"
+                        }
+                    ],
+                    "poc": {
+                        "exclusivity": null,
+                        "__typename": "AgentPoc"
+                    },
+                    "openHouses": [],
+                    "buildingClass": "two-family home",
+                    "images": [
+                        {
+                            "imageUrl": "bulletins2/c07da63d81f445593874190574e75fea.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/d202086a8210b04b5021ec0db68cd5b4.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/d21fbea194cdd58902712003f914d2db.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/1fccbf96c58409b57f3099685eef0b68.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/ccea7db61d0bbba2e571436144d3f8a0.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/7c854cfb0f2338c607d90ccd198e1b1c.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/798e62cd1785aa58723cd1f15e9fa63b.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        },
+                        {
+                            "imageUrl": "bulletins2/53026eaa31257eb44a320d4c598acb97.png",
+                            "isFloorplan": false,
+                            "__typename": "ImageItem"
+                        }
+                    ],
+                    "commonCharges": null,
+                    "monthlyTaxes": null,
+                    "source": "rebny",
+                    "originalId": "RPLU-33422568001",
+                    "insights": {
+                        "insights": [
+                            {
+                                "category": "safety",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Slightly above average crime rate",
+                                    "tagLine": "CRIME",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            },
+                            {
+                                "category": "livability",
+                                "tradeoff": {
+                                    "insightPlace": null,
+                                    "value": "Good park access",
+                                    "tagLine": "",
+                                    "impactful": false,
+                                    "__typename": "Tradeoff"
+                                },
+                                "__typename": "Insight"
+                            }
+                        ],
+                        "__typename": "Insights"
+                    }
+                }
+            ],
+            "__typename": "SearchBulletinResponse"
+        }
+    }
+}
