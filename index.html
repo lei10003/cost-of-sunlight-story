@@ -3838,16 +3838,21 @@
 		})();
 	</script>
 	<script>
-		window.onload = function() {
-		  var modal = document.getElementById('modal');
-	
-		  if (WURFL.is_mobile) {
-			modal.style.opacity = "100";
-			modal.style.visibility = "visible";
-			modal.style.pointerEvents = "auto";
-		  }
+		window.onload = function () {
+			var modal = document.getElementById('small-modal');
+			var closeButton = document.querySelector('[data-modal-hide="small-modal"]');
+
+			// Show the modal if the device is a mobile device
+			if (WURFL.is_mobile) {
+				modal.classList.remove('hidden');
+			}
+
+			// Hide the modal when the close button is clicked
+			closeButton.addEventListener('click', function () {
+				modal.classList.add('hidden');
+			});
 		}
-	  </script>
+	</script>
 </body>
 
 </html>
