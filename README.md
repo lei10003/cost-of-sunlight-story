@@ -13,11 +13,11 @@ This exploration serves as an initial look into the relationship between sunligh
 
 ### Data Collection
 
-The data was collected from apartment listings available on Localize.city during Summer 2023, focusing primarily on studio and one-bedroom apartments. The key attributes considered were rent, sunlight exposure, and living arrangements. For a more detailed look at the data collection process, please follow this [link] (https://github.com/lei10003/cost-of-sunlight-story/blob/main/Cost%20of%20Sunlight%20Analysis-2.ipynb).
+The data was collected from apartment listings available on Localize.city during Summer 2023, focusing primarily on studio and one-bedroom apartments. The key attributes considered were rent, sunlight exposure, and living arrangements. For a more detailed look at the data collection process, please follow this [link](https://github.com/lei10003/cost-of-sunlight-story/blob/main/Cost%20of%20Sunlight%20Analysis-2.ipynb).
 
 ### Data Analysis
 
-The data analysis process involved cleaning, organizing, and visualizing the gathered apartment listing data. The resulting visualization provides an interactive exploration of how sunlight exposure and rent interact across the analyzed neighborhoods. For an in-depth overview of the data analysis process, please follow this [link] (https://lei10003.github.io/the-cost-of-sunlight/).
+The data analysis process involved cleaning, organizing, and visualizing the gathered apartment listing data. The resulting visualization provides an interactive exploration of how sunlight exposure and rent interact across the analyzed neighborhoods. For an in-depth overview of the data analysis process, please follow this [link](https://lei10003.github.io/the-cost-of-sunlight/).
 
 ### Skills and Growth
 
