@@ -3,29 +3,27 @@
 
 ## Sunlight & Rent: An Urban Exploration in NYC
 
-This project takes you on an interactive journey through the correlation between sunlight exposure and rental prices in the neighborhoods surrounding Prospect Park, New York City.
+### Project Aim
 
-### Project Description
+The primary goal of this project was to explore the relationship between sunlight exposure and rental prices in neighborhoods surrounding Prospect Park, New York City. It stands as a unique attempt to visualize how urban design and the quest for sunlight affect the cost of living in a dense urban environment.
 
-In the shadows of New York City's skyscrapers, sunlight becomes a tangible, quantifiable commodity. Using data from apartment listings available on Localize.city during Summer 2023, this project investigates how the quest for good sunlight influences the cost of living.
+### Key Findings
 
-As we ascend our metaphorical building, each 'floor' or step reveals a different neighborhood, providing insights about how sunlight exposure impacts rental prices. This is urban living under a new lens, where the competition for sunlight in the shadows of skyscrapers becomes a tangible, quantifiable commodity.
+This exploration serves as an initial look into the relationship between sunlight exposure and rental prices. While it might be intuitively believed that more sunlight correlates with higher rent, this project presents a more nuanced picture. The interplay between sunlight exposure, rental prices, and affordability in terms of per capita and median household income varies across different neighborhoods surrounding Prospect Park. It hints at the possibility of deeper, more complex dynamics at play that influence how sunlight - a desired amenity in urban living - is valued in the rental market of New York City.
 
-### Key Features
+### Data Collection
 
-*Interactive scrolling narrative
-*Visual representations of apartment listings based on their sunlight exposure
-*Comparison of rental prices based on sunlight exposure
-*Demographic data on each neighborhood's population
+The data was collected from apartment listings available on Localize.city during Summer 2023, focusing primarily on studio and one-bedroom apartments. The key attributes considered were rent, sunlight exposure, and living arrangements. For a more detailed look at the data collection process, please follow this [link] (https://github.com/lei10003/cost-of-sunlight-story/blob/main/Cost%20of%20Sunlight%20Analysis-2.ipynb).
 
-### Limitations
+### Data Analysis
 
-Due to technical constraints, this project is best viewed on desktop or tablet devices. The interactive elements may not function as intended on mobile devices.
+The data analysis process involved cleaning, organizing, and visualizing the gathered apartment listing data. The resulting visualization provides an interactive exploration of how sunlight exposure and rent interact across the analyzed neighborhoods. For an in-depth overview of the data analysis process, please follow this [link] (https://lei10003.github.io/the-cost-of-sunlight/).
 
-### Conclusion
+### Skills and Growth
 
-This project concludes with a call-to-action to city planners, architects, and urban designers, urging a rethink of our cities in a way that equitable access to sunlight is no longer a privilege, but a right for all.
+The project stands as a learning opportunity in creating narratives from data, interactivity in data visualization, and gaining a deeper understanding of urban living. It involved mastering the craft of visual storytelling and grappling with the nuances of housing data.
 
-### Future Work
+### Challenges and Future Directions
 
-While this project focuses on the neighborhoods surrounding Prospect Park, there is scope to expand the analysis to other parts of New York City or other dense urban environments. Future work may also delve deeper into the various factors that influence rental prices in addition to sunlight exposure, such as building age, proximity to amenities, and more.
+Creating a responsive design that works across devices posed a challenge due to time constraints. If given more time, it would be worthwhile to extend the analysis to other parts of New York City and possibly other dense urban environments. There is also an opportunity to dig deeper into the multiple factors influencing rental prices, with sunlight exposure being one of them.
+
