@@ -39,7 +39,7 @@ One of the challenges I faced was integrating Scrollama into my project. While I
 
 ### Challenges and Future Directions
 
-Creating a responsive design that works across devices posed a challenge due to time constraints. If given more time, it would be worthwhile to extend the analysis to other parts of New York City and possibly other dense urban environments. There is also an opportunity to dig deeper into the multiple factors influencing rental prices.This could include looking at apartment features, building age, proximity to amenities, and other socio-economic factors.
+If given more time (projects are completed within 2-weeks), it would be worthwhile to extend the analysis to other parts of New York City and possibly other dense urban environments. There is also an opportunity to dig deeper into the multiple factors influencing rental prices.This could include looking at apartment features, building age, proximity to amenities, and other socio-economic factors.
 
 Implementing Scrollama for a smoother and more dynamic scrolling experience is another aspect I would like to revisit in the future.
 
